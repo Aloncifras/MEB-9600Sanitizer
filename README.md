@@ -1,8 +1,8 @@
 # MEB-9600Sanitizer
 A small scrip to split the output file of the Nihon Codhen MEB-9600 in to different files with each of the sweeps for post data analysis.
 
+========================= How to use it =========================
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ How to use it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Demo: https://youtu.be/XIw2WCGoy1Q
 
 You need Python installed on the machine (https://www.python.org/downloads/)
@@ -20,8 +20,9 @@ Nihon screens for joint analysis if necessary.
 
 And another file "FileName _sense.bin" which has a line saying the sensitivity of each screen.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================================================================
 Extras:
 
 Be careful, this program will rename any txt file in the folder by replacing the dash "-" with underscore "_".
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+===========================================================================
