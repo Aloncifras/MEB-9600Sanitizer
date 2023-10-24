@@ -6,7 +6,7 @@ A small scrip to split the output file of the Nihon Codhen MEB-9600 in to differ
 Demo: https://youtu.be/XIw2WCGoy1Q
 
 You need Python installed on the machine (https://www.python.org/downloads/) <br>
-Download the "Sanitizer.py" script <br>
+Download the "<a href="https://github.com/Aloncifras/MEB-9600Sanitizer/blob/main/Sanitizer.py">Sanitizer.py</a>" script <br>
 Drag the program to the folder with the Nihon Codhen MEB-9600 .TXT files. <br>
 Double click on the program
 
