@@ -1,0 +1,23 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Precisa do python instalado na maquina ( https://www.python.org/downloads/ )
+Localise o programa "Sanitizer.py"
+Arraste o programa até a pasta com os arquivos TXT do Nihon Koden
+Clique 2x sobre o programa
+
+Ele vai ler todos os .txt que estiverem na pasta e procurar cada swipe do nihon no arquivo, 
+gerando arquivos no formato NomeDoArquivoOriginal_n.bin sendo n o numero do swipe, geralmente 
+o primeiro é a media de todos os swipes realizados na coleta, e caso tenha mais de uma tela 
+os proximos arquivos bin serão de cada tela em ordem da esquerda para a direita.
+
+O programa ainda vai gerar um arquivo NomeDoArquivo_merg.bin que é a junção das duas primeiras
+telas do nihon para uma analise conjunta caso necessario.
+
+E outro arquivo NomeDoArquivo_sense.bin que tem uma linha dizendo a sensibilidade de cada tela.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Extras:
+
+Cuidado, este programa renomeará qualquer arquivo txt na pasta substituindo o travessão "-" por underline "_"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
