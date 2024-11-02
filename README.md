@@ -1,4 +1,4 @@
-# MEB-9600Sanitizer
+#Nihon Codhen MEB-9600 Sanitizer
 A small script to split the output file of the Nihon Codhen MEB-9600 into different files with each of the sweeps for data preprocessing and analysis.
 
 ========================= How to use it =========================
